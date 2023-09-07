@@ -4,8 +4,10 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 
 План 
 1. Выбор темы: Какое устройство (ПК),  прибыль или акт (внедрение)
-2. HTML, Web
-3. Сайт массажиста
+2. HTML, Web 
+ Шаблон https://referest.ru/sites/vse/tproduct/454184329-205832305341-collagedepartmentcomru\
+Breckets , 
+4. Сайт массажиста
 2-3 страницы
    авторизация клиента (подключение базы данных) Имя Фамилия , телефон , дата и время приема
    Подключение Google формы (понравилось ли вам место? Хотите ли еще придти? был ли полезен сайт?)
