@@ -6,7 +6,9 @@ https://docs.google.com/document/d/1LYeXQX3_XT8BTSMCpcUhIqkFOlUVtoMT1rstrrlsPao/
 1. Выбор темы: Какое устройство (ПК),  прибыль или акт (внедрение)
 2. HTML, Web 
  Шаблон https://referest.ru/sites/vse/tproduct/454184329-205832305341-collagedepartmentcomru\
-Breckets , 
+Breckets
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/174bc553-548e-4f8a-bcec-593a2f0f2ad0)
+
 4. Сайт массажиста
 2-3 страницы
    авторизация клиента (подключение базы данных) Имя Фамилия , телефон , дата и время приема
