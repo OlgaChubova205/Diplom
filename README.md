@@ -15,3 +15,8 @@ Breckets
    Подключение Google формы (понравилось ли вам место? Хотите ли еще придти? был ли полезен сайт?)
    анимация ( на страницах сайта, цветочек распустился, самолетик полетел, сердечки и тюдю ) типа "живые обои"
    Переходы между страницами 
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/47b5d9bc-9d9f-4c74-90bb-734befa49f10)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/514648cd-38aa-420d-a899-521a3924c09a)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/2f6b5272-fd16-49da-8912-512f2db5637e)
+
+
