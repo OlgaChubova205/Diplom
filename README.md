@@ -35,5 +35,10 @@ index = index % 43; поэтому в переменной индекс пише
  ctx.drawImage(image, 0, 0, 400, 281); размер изображения смотрим в проводнике
  setInterval(anim, 150); скорость изображения (чем меньше индекс скорости, тем быстрее анимация)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/4e4c19d4-2e44-474e-8dca-0f31960a0b6c)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/327f2aca-2fa6-4804-8847-62dca9f41057)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/7f1ae84c-f265-42d1-a308-e1e9ef4852f3)
+http://mysite.ru/
+
+
 
 
