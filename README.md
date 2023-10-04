@@ -37,7 +37,17 @@ index = index % 43; поэтому в переменной индекс пише
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/4e4c19d4-2e44-474e-8dca-0f31960a0b6c)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/327f2aca-2fa6-4804-8847-62dca9f41057)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/7f1ae84c-f265-42d1-a308-e1e9ef4852f3)
+
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/7a9add6c-d020-4ba9-a4fb-ebfd5bec50b2)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/968bf10a-a5a2-4e38-b453-926078744a81)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/4a7a1a8a-28e0-42b6-b9d9-6edaf9b1f354)
+создаем класс fox и заем пространство для анимации
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/ab362281-b634-46e0-976f-94c9e14122e0)
 http://mysite.ru/
+
+
+
+
 
 
 
