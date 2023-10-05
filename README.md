@@ -45,6 +45,15 @@ index = index % 43; поэтому в переменной индекс пише
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/ab362281-b634-46e0-976f-94c9e14122e0)
 http://mysite.ru/
 
+разделяем текст (ссылки) и ставим его в нужное расположение , задаем цвет (все в стилях)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/817bee73-0d29-479d-bfe4-9470de770aa2)
+и сделала фон 
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/569fc3de-1594-4910-b746-552e755d742e)
+хотя он пока временный
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/be688eb2-540a-426b-bc0e-743079427518)
+
+
+
 
 
 
