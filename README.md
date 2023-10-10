@@ -52,7 +52,10 @@ http://mysite.ru/
 хотя он пока временный
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/be688eb2-540a-426b-bc0e-743079427518)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/06691e2e-112c-43ec-9f15-3e6f5222faa8)
-![Uploading image.png…]()
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/7198cf7d-a07f-4ed3-973d-f5a6bc3ca7d2)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/c0f16c4c-c3e8-4169-ab69-1af1c72a45ff)
+
+
 
 
 
