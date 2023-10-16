@@ -59,6 +59,15 @@ http://mysite.ru/
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/26987e8a-7a09-41d0-86a4-303c58bf3a4c)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/c1b62bac-7f49-4b5f-9e9b-a7cab9465355)
 
+массивы
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/441f7f25-db15-475c-88f1-643534f82449)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/d6512b2d-2597-4090-b07b-66ca3a4b4d1e)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/91d46739-df26-47b1-b533-2b2e69bd3447)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/0d0d0509-dbe4-4ac2-a625-5ea123a098be)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/2f5be37e-c90a-486b-9175-b8f1926a2fe3)
+
+
+
 
 
 
