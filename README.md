@@ -73,6 +73,31 @@ http://mysite.ru/
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/bcb6fa13-a960-4858-9309-e3278c7da10a)
 ![image](https://github.com/OlgaChubova205/diplom/assets/112687883/8a06de57-318b-4e6c-8dd6-88c31e5f43c7)
 
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/9a8ee7a8-9307-477f-b244-72136850d4e0)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/3a34c636-4fb1-4f5c-8215-f2f35e9c6323)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/4edeb9eb-a178-42a7-a04f-4d11ea1d25d6)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/e0ded881-1264-4ca1-94d5-8427712862b3)
+
+если заходить как админ 
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/ec07fd12-0496-4bb8-80c7-1380af71ac06)
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/7e0c69f3-b005-445b-9aaa-c9d6de7a3a78)
+
+
+если заходить как пользователь
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/89270f49-3e6c-4cb3-907c-b04a8bda1583)
+
+моя админка
+![image](https://github.com/OlgaChubova205/diplom/assets/112687883/ff3bac9f-e989-44bf-a6f6-538be383a2a5)
+
+
+
+
+
+
+
+
+
+
 
 
 
